@@ -4,7 +4,6 @@ import json
 import os
 from datetime import datetime
 
-
 class ContactManager:
     def __init__(self, filename="contacts.json"):
         self.filename = filename
