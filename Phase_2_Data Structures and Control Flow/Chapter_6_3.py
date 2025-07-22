@@ -1,5 +1,4 @@
 # range_function_demo.py - Mastering the range function
-
 # Single parameter - range(stop)
 print("=== range(5) ===")
 for i in range(5):
