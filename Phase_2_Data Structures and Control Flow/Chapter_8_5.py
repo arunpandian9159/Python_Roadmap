@@ -1,5 +1,4 @@
 # lambda_functions_demo.py - Anonymous functions
-
 # Basic lambda functions
 print("=== BASIC LAMBDA FUNCTIONS ===")
 
