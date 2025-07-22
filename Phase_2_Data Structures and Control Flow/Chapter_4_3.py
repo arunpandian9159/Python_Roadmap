@@ -1,5 +1,4 @@
 #Comprehensive dictionary operations
-
 # Dictionary creation
 print("=== DICTIONARY CREATION ===")
 student = {
