@@ -1,5 +1,4 @@
 # if_statement_demo.py - Conditional logic
-
 # Basic if statement
 age = 18
 if age >= 18:
