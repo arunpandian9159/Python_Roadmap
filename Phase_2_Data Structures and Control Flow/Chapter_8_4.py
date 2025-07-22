@@ -117,7 +117,6 @@ def update_config(key, value):
     config[key] = value
     print(f"Config updated: {key} = {old_value} → {value}")
 
-
 def get_config(key):
     """Get configuration value"""
     return config.get(key, "Not found")
