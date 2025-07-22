@@ -1,5 +1,4 @@
 #Comprehensive string operations
-
 # String creation and basic operations
 print("=== STRING BASICS ===")
 text = "Python Programming"
