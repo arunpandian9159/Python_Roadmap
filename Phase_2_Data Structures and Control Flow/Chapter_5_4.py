@@ -1,5 +1,4 @@
 # nested_if_demo.py - Complex conditional logic
-
 # Login system
 username = input("Enter username: ")
 password = input("Enter password: ")
