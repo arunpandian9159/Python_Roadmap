@@ -1,4 +1,5 @@
 # string_indexing_slicing.py - Advanced string manipulation
+
 # String indexing examples
 text = "Python Programming"
 print("=== STRING INDEXING ===")
