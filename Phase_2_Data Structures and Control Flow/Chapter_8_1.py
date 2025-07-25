@@ -1,4 +1,5 @@
 # functions_demo.py - Basic function concepts
+
 # Simple function
 def greet():
     """A simple greeting function"""
