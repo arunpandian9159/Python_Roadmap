@@ -1,4 +1,5 @@
 #Comprehensive set operations
+
 # Set creation
 print("=== SET CREATION ===")
 fruits = {"apple", "banana", "orange", "apple"}  # Duplicates removed
