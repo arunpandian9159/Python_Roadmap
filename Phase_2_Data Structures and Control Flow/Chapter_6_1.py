@@ -1,4 +1,5 @@
 # while_loop_demo.py - Repetitive execution with condition
+
 # Basic while loop - counting
 print("=== COUNTING WITH WHILE LOOP ===")
 count = 1
