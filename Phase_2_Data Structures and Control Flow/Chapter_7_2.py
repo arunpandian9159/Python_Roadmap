@@ -1,4 +1,5 @@
 # string_formatting.py - Modern string formatting techniques
+
 # Variables for examples
 name = "Alice"
 age = 25
