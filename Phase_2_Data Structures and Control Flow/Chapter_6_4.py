@@ -1,4 +1,5 @@
 # nested_for_loop_demo.py - Loops within loops
+
 # Pattern printing
 print("=== PATTERN PRINTING ===")
 
