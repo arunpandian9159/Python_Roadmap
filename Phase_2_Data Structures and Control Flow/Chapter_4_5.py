@@ -1,5 +1,4 @@
 #Comprehensive tuple operations
-
 # Tuple creation
 print("=== TUPLE CREATION ===")
 coordinates = (3, 4)
