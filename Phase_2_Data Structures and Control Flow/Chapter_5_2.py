@@ -1,5 +1,4 @@
 # if_else_demo.py - Binary decisions
-
 # Basic if-else
 number = int(input("Enter a number: "))
 if number % 2 == 0:
