@@ -1,5 +1,4 @@
 # for_loop_demo.py - Iterating over sequences
-
 # Basic for loop with range
 print("=== BASIC FOR LOOP ===")
 for i in range(5):
