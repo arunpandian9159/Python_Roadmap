@@ -1,5 +1,4 @@
 # elif_demo.py - Multiple conditions
-
 # Grade calculator with elif
 score = float(input("Enter your score (0-100): "))
 
