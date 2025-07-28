@@ -1,5 +1,4 @@
 # return_statement_demo.py - Understanding return statements
-
 # Function with single return value
 def square(number):
     """Return square of a number"""
