@@ -1,5 +1,4 @@
 # function_creation_calling.py - Function creation and calling patterns
-
 # Function definition and calling
 def calculate_area(length, width):
     """Calculate area of rectangle"""
