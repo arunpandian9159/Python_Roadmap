@@ -1,5 +1,4 @@
 # boolean_demo.py - Boolean operations and truth values
-
 # Boolean basics
 print("=== BOOLEAN BASICS ===")
 is_sunny = True
