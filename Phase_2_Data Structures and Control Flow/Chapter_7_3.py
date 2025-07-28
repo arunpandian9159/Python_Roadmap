@@ -1,5 +1,4 @@
 # string_operations.py - Essential string methods and operations
-
 # Sample text for demonstrations
 text = "  Python Programming is Amazing!  "
 sample_text = "Hello, World! Welcome to Python Programming."
