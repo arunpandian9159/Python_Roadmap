@@ -29,7 +29,6 @@ class ContactManager:
         except Exception as e:
             print(f"Error saving contacts: {e}")
             return False
-
     def add_contact(self, name, phone, email, category="Personal"):
         """Add a new contact"""
 
