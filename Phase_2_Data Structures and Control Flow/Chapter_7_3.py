@@ -8,7 +8,6 @@ print(f"Original: '{text}'")
 print(f"Stripped: '{text.strip()}'")
 print(f"Left strip: '{text.lstrip()}'")
 print(f"Right strip: '{text.rstrip()}'")
-
 print("\n=== CASE OPERATIONS ===")
 print(f"Original: {sample_text}")
 print(f"Upper: {sample_text.upper()}")
