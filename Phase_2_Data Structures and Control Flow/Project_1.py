@@ -8,7 +8,6 @@ class PersonalInfoManager:
         self.important_dates = []  # List
         self.personal_info = ()  # Tuple (immutable)
         self.is_initialized = True  # Boolean
-
     def add_contact(self, name, phone, email):
         """Add a new contact"""
         self.contacts[name] = {
