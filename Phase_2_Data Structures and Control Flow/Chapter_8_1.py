@@ -3,7 +3,6 @@
 def greet():
     """A simple greeting function"""
     print("Hello, World!")
-
 # Function with parameters
 def greet_person(name):
     """Greet a specific person"""
