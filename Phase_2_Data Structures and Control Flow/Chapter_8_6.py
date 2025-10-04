@@ -7,7 +7,6 @@ print("=== PYTHON LISTS (DYNAMIC ARRAYS) ===")
 numbers = [1, 2, 3, 4, 5]
 mixed_array = [1, "hello", 3.14, True]
 empty_array = []
-
 print(f"Numbers array: {numbers}")
 print(f"Mixed array: {mixed_array}")
 print(f"Empty array: {empty_array}")
