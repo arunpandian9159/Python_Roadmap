@@ -11,7 +11,6 @@ def demonstrate_local_scope():
     print(f"Inside function: {local_var}")
     print(f"Inside function can access global: {global_var}")
 
-
 def demonstrate_global_keyword():
     """Demonstrate global keyword usage"""
     global count
