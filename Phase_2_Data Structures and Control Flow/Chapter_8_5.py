@@ -9,7 +9,6 @@ print(f"Square of 5: {square(5)}")
 # Lambda with multiple arguments
 add = lambda x, y: x + y
 print(f"Add 3 + 7: {add(3, 7)}")
-
 # Lambda with conditional
 max_of_two = lambda a, b: a if a > b else b
 print(f"Max of 10, 15: {max_of_two(10, 15)}")
