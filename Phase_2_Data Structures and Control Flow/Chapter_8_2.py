@@ -9,7 +9,6 @@ def calculate_circle_area(radius):
     """Calculate area of circle"""
     import math
     return math.pi * radius ** 2
-
 def get_student_grade(score):
     """Determine grade based on score"""
     if score >= 90:
