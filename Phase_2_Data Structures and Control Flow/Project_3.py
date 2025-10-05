@@ -8,7 +8,6 @@ class ContactManager:
     def __init__(self, filename="contacts.json"):
         self.filename = filename
         self.contacts = self.load_contacts()
-
     def load_contacts(self):
         """Load contacts from file"""
         if os.path.exists(self.filename):
