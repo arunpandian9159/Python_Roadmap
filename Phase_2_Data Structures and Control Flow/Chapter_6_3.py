@@ -17,7 +17,6 @@ print("\n=== range(0, 20, 3) ===")
 for i in range(0, 20, 3):
     print(i, end=" ")
 print()
-
 # Negative step
 print("\n=== range(10, 0, -1) ===")
 for i in range(10, 0, -1):
