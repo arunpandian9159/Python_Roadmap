@@ -23,7 +23,6 @@ print(f"After insert(0, 0): {numbers}")
 
 numbers.extend([7, 8, 9])  # Add multiple elements
 print(f"After extend([7, 8, 9]): {numbers}")
-
 # Removing elements
 numbers.remove(0)  # Remove first occurrence
 print(f"After remove(0): {numbers}")
