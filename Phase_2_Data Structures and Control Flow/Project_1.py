@@ -21,7 +21,6 @@ class PersonalInfoManager:
         """Add a favorite number (no duplicates)"""
         self.favorite_numbers.add(number)
         print(f"✓ Number {number} added to favorites")
-
     def add_important_date(self, event, date):
         """Add an important date"""
         self.important_dates.append((event, date))
