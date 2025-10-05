@@ -19,7 +19,6 @@ def divide_numbers(a, b):
         return None, "Cannot divide by zero"
     else:
         return a / b, "Success"
-
 # Function with early return
 def find_first_even(numbers):
     """Find first even number in list"""
