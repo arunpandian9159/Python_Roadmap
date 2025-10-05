@@ -21,7 +21,6 @@ def get_student_grade(score):
         return "D"
     else:
         return "F"
-
 def format_currency(amount, currency="USD"):
     """Format amount as currency"""
     symbols = {"USD": "$", "EUR": "€", "GBP": "£", "JPY": "¥"}
