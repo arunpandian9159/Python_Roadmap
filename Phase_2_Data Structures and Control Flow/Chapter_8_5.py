@@ -20,7 +20,6 @@ print(f"Original numbers: {numbers}")
 # Square all numbers
 squared = list(map(lambda x: x ** 2, numbers))
 print(f"Squared: {squared}")
-
 # Convert to strings
 strings = list(map(lambda x: f"Number: {x}", numbers))
 print(f"As strings: {strings}")
