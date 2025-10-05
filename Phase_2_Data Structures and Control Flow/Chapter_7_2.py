@@ -20,7 +20,6 @@ print(format_positional)
 # With keyword arguments
 format_keyword = "Name: {n}, Age: {a}, Salary: ${s:.2f}".format(n=name, a=age, s=salary)
 print(format_keyword)
-
 print("\n=== F-STRINGS (RECOMMENDED) ===")
 # Basic f-string
 f_basic = f"Name: {name}, Age: {age}, Salary: ${salary:.2f}"
