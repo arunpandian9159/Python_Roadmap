@@ -22,7 +22,6 @@ for i in range(1, 6):
         product = i * j
         print(f"{product:3d}", end=" ")
     print()
-
 # Matrix operations
 print("\n=== MATRIX OPERATIONS ===")
 matrix = [
