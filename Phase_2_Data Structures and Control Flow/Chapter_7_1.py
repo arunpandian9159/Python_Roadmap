@@ -16,7 +16,6 @@ print(f"Middle part: text[3:10] = '{text[3:10]}'")
 print(f"Every 2nd character: text[::2] = '{text[::2]}'")
 print(f"Reverse string: text[::-1] = '{text[::-1]}'")
 print(f"Last 5 reversed: text[:-6:-1] = '{text[:-6:-1]}'")
-
 # Practical slicing examples
 print("\n=== PRACTICAL EXAMPLES ===")
 
