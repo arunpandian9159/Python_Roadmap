@@ -22,7 +22,6 @@ def demonstrate_local_override():
     global_var = "I'm a local variable with same name"
     print(f"Local override: {global_var}")
 
-
 def outer_function():
     """Demonstrate nested function scope"""
     outer_var = "I'm in outer function"
