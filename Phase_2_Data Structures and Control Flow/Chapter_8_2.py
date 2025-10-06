@@ -29,7 +29,6 @@ def format_currency(amount, currency="USD"):
 
 # Function calling examples
 print("=== FUNCTION CALLING EXAMPLES ===")
-
 # Basic function calling
 rect_area = calculate_area(10, 5)
 print(f"Rectangle area (10x5): {rect_area}")
