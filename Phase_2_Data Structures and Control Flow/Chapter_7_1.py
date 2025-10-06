@@ -19,7 +19,7 @@ print(f"Last 5 reversed: text[:-6:-1] = '{text[:-6:-1]}'")
 # Practical slicing examples
 print("\n=== PRACTICAL EXAMPLES ===")
 
-# Extract file extension
+# Extract file extension 
 filename = "document.pdf"
 extension = filename[filename.rfind('.') + 1:]
 print(f"File: {filename}, Extension: {extension}")
