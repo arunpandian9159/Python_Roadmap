@@ -63,7 +63,6 @@ class ATMSystem:
         """Display current balance"""
         balance = self.accounts[self.current_account]["balance"]
         print(f"\nCurrent Balance: ${balance:.2f}")
-
     def deposit_money(self):
         """Handle money deposit"""
         while True:
