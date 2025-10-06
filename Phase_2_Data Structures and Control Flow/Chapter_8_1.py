@@ -21,7 +21,6 @@ def greet_with_title(name, title="Mr./Ms."):
 def sum_all(*numbers):
     """Sum any number of arguments"""
     return sum(numbers)
-
 # Function with keyword arguments (**kwargs)
 def print_info(**info):
     """Print information from keyword arguments"""
