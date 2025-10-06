@@ -29,7 +29,6 @@ fahrenheit = [32, 68, 86, 104]
 celsius = list(map(lambda f: (f - 32) * 5/9, fahrenheit))
 print(f"Fahrenheit: {fahrenheit}")
 print(f"Celsius: {[round(c, 1) for c in celsius]}")
-
 print("\n=== LAMBDA WITH FILTER() ===")
 numbers = list(range(1, 21))
 print(f"Numbers 1-20: {numbers}")
