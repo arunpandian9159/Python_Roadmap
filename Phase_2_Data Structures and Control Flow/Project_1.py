@@ -1,5 +1,4 @@
 #Combining all data types
-
 class PersonalInfoManager:
     def __init__(self):
         # Using different data types
