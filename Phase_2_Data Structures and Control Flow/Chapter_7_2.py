@@ -23,7 +23,7 @@ print(format_keyword)
 print("\n=== F-STRINGS (RECOMMENDED) ===")
 # Basic f-string
 f_basic = f"Name: {name}, Age: {age}, Salary: ${salary:.2f}"
-print(f_basic)
+print(f_basic) 
 
 # With expressions
 f_expression = f"Name: {name.upper()}, Next year age: {age + 1}"
