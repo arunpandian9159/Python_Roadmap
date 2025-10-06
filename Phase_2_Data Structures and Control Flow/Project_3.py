@@ -18,7 +18,6 @@ class ContactManager:
                 print("Error loading contacts. Starting with empty list.")
                 return []
         return []
-
     def save_contacts(self):
         """Save contacts to file"""
         try:
