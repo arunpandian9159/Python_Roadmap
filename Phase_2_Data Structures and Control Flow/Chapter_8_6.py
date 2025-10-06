@@ -30,7 +30,6 @@ print(f"After remove(0): {numbers}")
 popped = numbers.pop()  # Remove and return last
 print(f"Popped element: {popped}")
 print(f"After pop(): {numbers}")
-
 del numbers[0]  # Delete by index
 print(f"After del numbers[0]: {numbers}")
 
