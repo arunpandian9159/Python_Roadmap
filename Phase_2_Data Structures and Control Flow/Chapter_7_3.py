@@ -19,7 +19,7 @@ print(f"Swap case: {sample_text.swapcase()}")
 print("\n=== STRING TESTING ===")
 test_strings = ["Hello123", "12345", "hello", "HELLO", "Hello World"]
 for test_str in test_strings:
-    print(f"\nTesting: '{test_str}'")
+    print(f"\nTesting: '{test_str}'") 
     print(f"  isalnum(): {test_str.isalnum()}")
     print(f"  isdigit(): {test_str.isdigit()}")
     print(f"  isalpha(): {test_str.isalpha()}")
