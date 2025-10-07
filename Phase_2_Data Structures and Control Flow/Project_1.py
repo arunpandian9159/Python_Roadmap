@@ -15,7 +15,7 @@ class PersonalInfoManager:
             'added_date': self.get_current_date()
         }
         print(f"✓ Contact '{name}' added successfully")
-
+ 
     def add_favorite_number(self, number):
         """Add a favorite number (no duplicates)"""
         self.favorite_numbers.add(number)
