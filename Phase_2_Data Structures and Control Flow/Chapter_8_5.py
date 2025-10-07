@@ -23,7 +23,7 @@ print(f"Squared: {squared}")
 # Convert to strings
 strings = list(map(lambda x: f"Number: {x}", numbers))
 print(f"As strings: {strings}")
-
+ 
 # Temperature conversion
 fahrenheit = [32, 68, 86, 104]
 celsius = list(map(lambda f: (f - 32) * 5/9, fahrenheit))
