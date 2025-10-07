@@ -11,7 +11,7 @@ def get_name_parts(full_name):
     if len(parts) >= 2:
         return parts[0], parts[-1]  # First and last name
     else:
-        return parts[0], ""  # Only first name
+        return parts[0], ""  # Only first name 
 # Function with conditional returns
 def divide_numbers(a, b):
     """Divide two numbers with error handling"""
