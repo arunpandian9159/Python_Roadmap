@@ -159,7 +159,7 @@ products = [
 
 # Add items to cart
 for product, price in products:
-    cart.append({"product": product, "price": price, "quantity": 1})
+    cart.append({"product": product, "price": price, "quantity": 1}) 
 
 print("\nShopping Cart:")
 total = 0
