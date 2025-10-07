@@ -9,7 +9,7 @@ def demonstrate_local_scope():
     """Demonstrate local variable scope"""
     local_var = "I'm a local variable"
     print(f"Inside function: {local_var}")
-    print(f"Inside function can access global: {global_var}")
+    print(f"Inside function can access global: {global_var}") 
 
 def demonstrate_global_keyword():
     """Demonstrate global keyword usage"""
