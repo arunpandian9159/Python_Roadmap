@@ -17,7 +17,7 @@ def add_numbers(a, b):
 def greet_with_title(name, title="Mr./Ms."):
     """Greet with optional title"""
     return f"Hello, {title} {name}!"
-# Function with variable arguments (*args)
+# Function with variable arguments (*args) 
 def sum_all(*numbers):
     """Sum any number of arguments"""
     return sum(numbers)
