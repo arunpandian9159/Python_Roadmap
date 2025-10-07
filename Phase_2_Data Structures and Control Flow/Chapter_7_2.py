@@ -15,7 +15,7 @@ print(format_basic)
 
 # With positional arguments
 format_positional = "Name: {0}, Age: {1}, In 10 years: {1} + 10 = {2}".format(name, age, age + 10)
-print(format_positional)
+print(format_positional) 
 
 # With keyword arguments
 format_keyword = "Name: {n}, Age: {a}, Salary: ${s:.2f}".format(n=name, a=age, s=salary)
