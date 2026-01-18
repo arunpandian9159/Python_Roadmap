@@ -9,7 +9,7 @@ while count <= 5:
 # Sum of numbers
 print("\n=== SUM CALCULATION ===")
 number = 1
-total = 0
+total = 0 
 while number <= 10:
     total += number
     number += 1
