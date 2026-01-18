@@ -10,7 +10,7 @@ print()
 print("\n=== range(3, 8) ===")
 for i in range(3, 8):
     print(i, end=" ")
-print()
+print() 
 
 # Three parameters - range(start, stop, step)
 print("\n=== range(0, 20, 3) ===")
