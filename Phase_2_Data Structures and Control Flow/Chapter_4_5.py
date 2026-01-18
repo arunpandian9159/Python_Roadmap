@@ -11,7 +11,7 @@ print(f"RGB Color: {rgb_color}")
 print(f"Mixed tuple: {mixed_tuple}")
 print(f"Single element: {single_element}")
 
-# Tuple unpacking
+# Tuple unpacking 
 print("\n=== TUPLE UNPACKING ===")
 x, y = coordinates
 print(f"x = {x}, y = {y}")
