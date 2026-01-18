@@ -2,7 +2,7 @@
 
 # String creation and basic operations
 print("=== STRING BASICS ===")
-text = "Python Programming"
+text = "Python Programming" 
 print(f"Original: '{text}'")
 print(f"Length: {len(text)}")
 print(f"Uppercase: {text.upper()}")
