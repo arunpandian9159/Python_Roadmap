@@ -8,7 +8,7 @@ if username == "admin":
         print("Welcome, Administrator!")
         if input("Access admin panel? (y/n): ").lower() == "y":
             print("Opening admin panel...")
-        else:
+        else: 
             print("Staying in main area")
     else:
         print("Invalid admin password")
