@@ -3,7 +3,7 @@ import math
 import random
 
 # Integer operations
-print("=== INTEGER OPERATIONS ===")
+print("=== INTEGER OPERATIONS ===") 
 large_number = 123456789012345678901234567890
 print(f"Large integer: {large_number}")
 print(f"Type: {type(large_number)}")
