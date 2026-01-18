@@ -5,7 +5,7 @@ age = 25
 salary = 55000.75
 percentage = 0.847
 
-print("=== OLD STYLE FORMATTING (%) ===")
+print("=== OLD STYLE FORMATTING (%) ===") 
 old_style = "Name: %s, Age: %d, Salary: $%.2f" % (name, age, salary)
 print(old_style)
 print("\n=== .format() METHOD ===")
