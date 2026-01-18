@@ -15,7 +15,7 @@ def demonstrate_global_keyword():
     """Demonstrate global keyword usage"""
     global count
     count += 1  # Modify global variable
-    print(f"Count incremented to: {count}")
+    print(f"Count incremented to: {count}") 
 
 def demonstrate_local_override():
     """Demonstrate local variable overriding global"""
