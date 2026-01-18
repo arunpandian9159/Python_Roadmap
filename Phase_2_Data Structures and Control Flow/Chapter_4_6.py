@@ -4,7 +4,7 @@ print("=== BOOLEAN BASICS ===")
 is_sunny = True
 is_raining = False
 
-print(f"Is sunny: {is_sunny}")
+print(f"Is sunny: {is_sunny}") 
 print(f"Is raining: {is_raining}")
 print(f"Type of True: {type(is_sunny)}")
 
