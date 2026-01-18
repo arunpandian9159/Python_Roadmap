@@ -5,7 +5,7 @@ print("=== DICTIONARY CREATION ===")
 student = {
     "name": "John Doe",
     "age": 20,
-    "major": "Computer Science",
+    "major": "Computer Science", 
     "gpa": 3.8,
     "courses": ["Python", "Data Structures", "Algorithms"]
 }
