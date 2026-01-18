@@ -7,7 +7,7 @@ print(f"Fruits set: {fruits}")
 numbers = set([1, 2, 3, 4, 5, 2, 3])
 print(f"Numbers set: {numbers}")
 
-# Set from string
+# Set from string 
 letters = set("hello")
 print(f"Letters from 'hello': {letters}")
 
