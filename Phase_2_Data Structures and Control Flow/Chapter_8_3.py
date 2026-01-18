@@ -14,7 +14,7 @@ def get_name_parts(full_name):
         return parts[0], ""  # Only first name 
 # Function with conditional returns
 def divide_numbers(a, b):
-    """Divide two numbers with error handling"""
+    """Divide two numbers with error handling""" 
     if b == 0:
         return None, "Cannot divide by zero"
     else:
