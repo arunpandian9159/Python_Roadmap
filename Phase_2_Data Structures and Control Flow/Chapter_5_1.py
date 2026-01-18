@@ -11,7 +11,7 @@ if temperature > 30:
 if temperature < 10:
     print("It's cold outside!")
 if 10 <= temperature <= 30:
-    print("The weather is pleasant!")
+    print("The weather is pleasant!") 
 
 # Checking user input
 user_input = input("Enter your grade (A, B, C, D, F): ").upper()
