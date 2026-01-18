@@ -13,7 +13,7 @@ print(f"Original: {sample_text}")
 print(f"Upper: {sample_text.upper()}")
 print(f"Lower: {sample_text.lower()}")
 print(f"Title: {sample_text.title()}")
-print(f"Capitalize: {sample_text.capitalize()}")
+print(f"Capitalize: {sample_text.capitalize()}") 
 print(f"Swap case: {sample_text.swapcase()}")
 
 print("\n=== STRING TESTING ===")
