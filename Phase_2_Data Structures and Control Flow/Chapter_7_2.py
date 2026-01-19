@@ -10,7 +10,7 @@ old_style = "Name: %s, Age: %d, Salary: $%.2f" % (name, age, salary)
 print(old_style)
 print("\n=== .format() METHOD ===")
 # Basic usage
-format_basic = "Name: {}, Age: {}, Salary: ${:.2f}".format(name, age, salary)
+format_basic = "Name: {}, Age: {}, Salary: ${:.2f}".format(name, age, salary) 
 print(format_basic)
 
 # With positional arguments
