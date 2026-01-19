@@ -10,7 +10,7 @@ def get_name_parts(full_name):
     parts = full_name.split()
     if len(parts) >= 2:
         return parts[0], parts[-1]  # First and last name
-    else:
+    else: 
         return parts[0], ""  # Only first name 
 # Function with conditional returns
 def divide_numbers(a, b):
