@@ -7,7 +7,7 @@ else:
     print(f"{number} is odd")
 
 # Password checker 
-password = input("Enter password: ")
+password = input("Enter password: ") 
 if len(password) >= 8:
     print("Password is strong enough")
 else:
