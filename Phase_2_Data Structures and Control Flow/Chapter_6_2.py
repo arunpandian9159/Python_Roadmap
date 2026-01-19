@@ -11,7 +11,7 @@ for i in range(2, 11, 2):  # Start, stop, step
 
 # Iterating over lists
 print("\n=== ITERATING OVER LISTS ===")
-fruits = ["apple", "banana", "orange", "grape"]
+fruits = ["apple", "banana", "orange", "grape"] 
 for fruit in fruits: 
     print(f"I like {fruit}")
 
