@@ -5,7 +5,7 @@ global_var = "I'm a global variable"
 count = 0
 
 
-def demonstrate_local_scope():
+def demonstrate_local_scope(): 
     """Demonstrate local variable scope"""
     local_var = "I'm a local variable"
     print(f"Inside function: {local_var}")
