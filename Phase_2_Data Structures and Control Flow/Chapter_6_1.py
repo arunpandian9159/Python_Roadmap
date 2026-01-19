@@ -15,7 +15,7 @@ while number <= 10:
     number += 1
 print(f"Sum of numbers 1-10: {total}")
 
-# User input validation
+# User input validation 
 print("\n=== INPUT VALIDATION ===")
 password = ""
 while len(password) < 6:
