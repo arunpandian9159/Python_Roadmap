@@ -12,7 +12,7 @@ def greet_person(name):
 def add_numbers(a, b):
     """Add two numbers and return the result"""
     return a + b
-
+ 
 # Function with default parameters
 def greet_with_title(name, title="Mr./Ms."):
     """Greet with optional title""" 
