@@ -10,7 +10,7 @@ if username == "admin":
             print("Opening admin panel...")
         else: 
             print("Staying in main area")
-    else:
+    else: 
         print("Invalid admin password")
 elif username == "user":
     if password == "user123":
