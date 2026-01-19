@@ -6,7 +6,7 @@ if age >= 18:
 
 # Multiple conditions
 temperature = 25
-if temperature > 30:
+if temperature > 30: 
     print("It's hot outside!")
 if temperature < 10:
     print("It's cold outside!")
