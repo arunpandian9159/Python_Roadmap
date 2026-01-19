@@ -5,7 +5,7 @@ coordinates = (3, 4)
 rgb_color = (255, 128, 0)
 mixed_tuple = ("Alice", 25, True, 3.14)
 single_element = (42,)  # Note the comma!
-
+ 
 print(f"Coordinates: {coordinates}")
 print(f"RGB Color: {rgb_color}")
 print(f"Mixed tuple: {mixed_tuple}")
