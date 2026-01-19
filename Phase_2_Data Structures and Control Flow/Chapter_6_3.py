@@ -19,11 +19,11 @@ for i in range(0, 20, 3):
 print()   
 # Negative step
 print("\n=== range(10, 0, -1) ===")
-for i in range(10, 0, -1):
+for i in range(10, 0, -1): 
     print(i, end=" ")
 print()
 
-# Creating lists with range
+# Creating lists with range 
 print("\n=== CREATING LISTS ===")
 numbers = list(range(1, 11))
 print(f"Numbers 1-10: {numbers}")
