@@ -5,7 +5,7 @@ print("=== STRING BASICS ===")
 text = "Python Programming" 
 print(f"Original: '{text}'")
 print(f"Length: {len(text)}")
-print(f"Uppercase: {text.upper()}")
+print(f"Uppercase: {text.upper()}") 
 print(f"Lowercase: {text.lower()}")
 print(f"Title case: {text.title()}")
 
