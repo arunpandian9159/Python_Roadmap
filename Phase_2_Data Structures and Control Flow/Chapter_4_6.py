@@ -6,7 +6,7 @@ is_raining = False
 
 print(f"Is sunny: {is_sunny}") 
 print(f"Is raining: {is_raining}")
-print(f"Type of True: {type(is_sunny)}")
+print(f"Type of True: {type(is_sunny)}") 
 
 # Boolean operations
 print("\n=== BOOLEAN OPERATIONS ===")
