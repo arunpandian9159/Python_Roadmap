@@ -6,7 +6,7 @@ print(f"Text: '{text}'")
 print(f"Length: {len(text)}")
 print(f"First character: text[0] = '{text[0]}'")
 print(f"Last character: text[-1] = '{text[-1]}'")
-print(f"Second last: text[-2] = '{text[-2]}'")
+print(f"Second last: text[-2] = '{text[-2]}'") 
 print(f"Character at index 7: text[7] = '{text[7]}'")
 # String slicing examples
 print("\n=== STRING SLICING ===")
