@@ -4,7 +4,7 @@ print("=== SET CREATION ===")
 fruits = {"apple", "banana", "orange", "apple"}  # Duplicates removed
 print(f"Fruits set: {fruits}")
 
-numbers = set([1, 2, 3, 4, 5, 2, 3])
+numbers = set([1, 2, 3, 4, 5, 2, 3]) 
 print(f"Numbers set: {numbers}")
 
 # Set from string 
